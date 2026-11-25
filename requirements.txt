@@ -1,0 +1,15 @@
+pandas
+numpy
+openpyxl
+matplotlib
+seaborn
+plotly
+streamlit
+scikit-learn
+scipy
+jupyter
+ipykernel
+pyarrow
+folium
+streamlit-folium
+geopandas
